@@ -1,0 +1,28 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    display: flex;
+    border: 2px solid black;
+
+}
+
+.logo{
+    margin-left: 40px;
+}
+
+.navtitle{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    cursor: pointer;
+    margin-top: 33px;
+    justify-items: center;
+    margin-left: 240px;
+}
+
+.logo-img{
+    
+}
